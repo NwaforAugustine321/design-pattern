@@ -1,0 +1,3 @@
+interface SortEvent {
+  sort: () => number[];
+}
